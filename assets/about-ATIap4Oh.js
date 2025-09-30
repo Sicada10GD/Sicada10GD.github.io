@@ -1,0 +1,1 @@
+import{w as t,p as s}from"./chunk-NISHYRIK-B1He9qxt.js";const a=t(function(){return s.jsxs("div",{children:[s.jsx("h1",{children:"About Page"}),s.jsx("p",{children:"This is a sample About page."})]})});export{a as default};
